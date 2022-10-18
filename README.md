@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @olamide-81
-- 👀 I’m interested in Building 
+- 👋 Hi, I’m @olamide
+- 👀 I’m interested in Building Cross platform applications and websites
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me thereactdeveloper
 
 <!---
 olamide-81/olamide-81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
