@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor Olamide Olatund</h1>
+<h1 align="center">Hi 👋, I'm Victor Olamide Olatunde</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olamide-81" alt="olamide-81" /></a> </p>
