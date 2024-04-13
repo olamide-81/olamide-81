@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olamide-81" alt="olamide-81" /></a> </p>
 
-- 🔭 I’m currently working on **A Property Mangament platform**
+- 🔭 I’m currently building on the **Blockchain**
 
 - 🌱 I’m currently learning **Microsoft Azure**
 
