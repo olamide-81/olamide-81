@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, React Native, Java, Flutter, Firebase, IBM CLOUD, Laravel, Next**
 
-- 📫 How to reach me **victor@qsyrys.co**
+- 📫 How to reach me **victorolamide04@gmail.com**
 
 - 📄 Know about my experiences [https://olamidepro.netlify.app](https://olamidepro.netlify.app)
 
