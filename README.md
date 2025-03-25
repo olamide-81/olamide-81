@@ -1,71 +1,48 @@
-# 👨‍💻 Victor Olamide Olatunde
+# Hi there 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Frontend+Developer;Blockchain+Enthusiast;Cloud+Computing+Expert" alt="Typing SVG" />
-</div>
+Full-Stack Blockchain Engineer || Ethereum || Bitcoin || Solana || DeFi || Dapps | Solidity || Building Stuffs. 🦊 🚀 💫
 
-## 🌟 About Me
+## About Me
 
-Passionate Frontend Developer with expertise in blockchain technology and cloud computing. I specialize in creating robust and scalable applications using modern web technologies. Currently exploring the intersection of Web3 and cloud solutions while building innovative projects that make a difference.
-
-- 🔭 Currently working on **Blockchain and Web3 Projects**
-- 🌱 Learning **Microsoft Azure** and advancing my cloud expertise
-- 👯 Open to collaborate on **Fintech and Blockchain Projects**
-- 🎯 2024 Goals: Contribute more to Web3 ecosystem and open-source projects
-- ⚡ Fun fact: I love exploring new technologies and building side projects
+- 🔭 I'm currently working on **Web3 and DeFi Projects**
+- 🌱 I'm currently learning **Advanced Blockchain Architecture**
+- 👯 I'm looking to collaborate on **Blockchain and DeFi Projects**
+- 💬 Ask me about **React, Blockchain, DeFi, and Web3**
+- ⚡ Fun fact: I love exploring new technologies and building cool stuff
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### Core
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olamide-81&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olamide-81&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=olamide-81&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-## 🌐 Connect with me
+## 🌐 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://olamidepro.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://olamidev1.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-olatunde-49747320a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/olamide-81)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorolamide04@gmail.com)
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olamide-81&theme=tokyo-night" alt="Activity Graph" />
-</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=olamide-81&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=olamide-81&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div> 
